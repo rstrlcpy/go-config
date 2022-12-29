@@ -7,7 +7,7 @@ Simple helper that populates configuration from environment variables
 package main
 
 import (
-	config "github.com/Ramzec/go-config"
+	config "github.com/rstrlcpy/go-config"
 )
 
 type ServiceConfig struct {
